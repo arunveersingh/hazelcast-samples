@@ -1,2 +1,2 @@
 # hazelcast-samples
-jgyj
+This project provides some examples around using hazelcast in jvm based application.
